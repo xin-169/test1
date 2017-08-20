@@ -1,0 +1,5 @@
+public class Xin{
+   public static void main(args[] asas){
+      System.out.print("你好");
+   }
+}
